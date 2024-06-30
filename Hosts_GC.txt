@@ -1,25 +1,34 @@
-# Grapich Content
+### Grapich Content
 
-s-krovi.net - Inactive
-goreviral.fun - Inactive
-www.rotten.com - Inactive
-psychoduck2.net - Inactive
-1deathaddict.co - Inactive
-www.goretube.com - Inactive
-leakedreality.com - Inactive
-www.reallygore.com - Inactive
-www.leakedreality.com - Inactive
-www.mazterlocuras.net - Inactive
-www.death-thelashapiters.net - Inactive
-www.anoticiadoam.blogspot.com - Inactive
 
-www.ochevidets.ru - NotSecure
-www.charonboat.com - NotSecure
-www.auscaps2.blogspot.com - Not Secure
-www.webhorror.blogspot.com - Not Secure
+# Inactive Sites
+
+s-krovi.net
+goreviral.fun
+www.rotten.com
+psychoduck2.net
+1deathaddict.co
+www.goretube.com
+leakedreality.com
+www.reallygore.com
+www.leakedreality.com
+www.mazterlocuras.net
+www.death-thelashapiters.net
+www.anoticiadoam.blogspot.com
+
+# Not Secure Sites
+
+www.ochevidets.ru
+www.charonboat.com
+www.auscaps2.blogspot.com
+www.webhorror.blogspot.com
+
+# New Sites
 
 rottenland.com - goreflix.com
 www.itemfix.com - www.liveleak.com
+
+# Active Sites
 
 forogore.net
 www.forogore.net
