@@ -1,64 +1,82 @@
 # Grapich Content
 
-0.0.0.0    www.forogore.com
-0.0.0.0    www.mazterlocuras.net
-0.0.0.0    goreflix.com
-0.0.0.0    www.kaotic.com
-0.0.0.0    www.TheYNC.com
-0.0.0.0    gorebook.com
-0.0.0.0    s-krovi.net
-0.0.0.0    www.documentingreality.com
-0.0.0.0    www.agresori.com
-0.0.0.0    deadhouse.xyz
-0.0.0.0    1deathaddict.co
-0.0.0.0    www.runthegauntlet.org
-0.0.0.0    www.horriblevideos.com
-0.0.0.0    www.krudplug.net
-0.0.0.0    www.deepgoretube.site
-0.0.0.0    www.bizarrecrew.com
-0.0.0.0    http:www.ochevidets.ru
-0.0.0.0    www.charonboat.com
-0.0.0.0    www.webhorror.blogspot.com
-0.0.0.0    www.anoticiadoam.blogspot.com
-0.0.0.0    www.portaldojotaom
-0.0.0.0    www.portalcm7.com
-0.0.0.0    www.itemfix.com
-0.0.0.0    www.ndtv.com
-0.0.0.0    www.saidit.net
-0.0.0.0    www.hermantheshocker.com
-0.0.0.0    psychoduck2.net
-0.0.0.0    megabizarro.net
-0.0.0.0    goreviral.fun
-0.0.0.0    watchpeopledie.tv
-0.0.0.0    www.goretube.com
-0.0.0.0    www.usacrime.com
-0.0.0.0    www.livegore.com
-0.0.0.0    www.seegore.com
-0.0.0.0    www.alivegore.com
-0.0.0.0    www.leakreality.com
-0.0.0.0    www.crazyshit.com
-0.0.0.0    www.liveleak.com
-0.0.0.0    www.rotten.com
-0.0.0.0    www.goregrish.com
-0.0.0.0    www.cutedeadguyset
-0.0.0.0    www.sadistic.pl
-0.0.0.0    bestgore.fun
-0.0.0.0    www.mazterlocuras.net
-0.0.0.0    www.atrocidades18.com.br
-0.0.0.0    www.reallygore.com
-0.0.0.0    goredb.comxgore.net
-0.0.0.0    herdeaths.net
-0.0.0.0    navratdoreality.cz
-0.0.0.0    www.death-thelashapiters.net
-0.0.0.0    vidmax.com
-0.0.0.0    www.zdterror.com
-0.0.0.0    watchpeopledie.co
-0.0.0.0    www.bitchute.com
-0.0.0.0    goresee.com
-0.0.0.0    elblogdelnarco.com
-0.0.0.0    theworldwatch.com
-0.0.0.0    www.gorecenter.com
-0.0.0.0    kaotic.com
-0.0.0.0    theync.com
-0.0.0.0    bestgore.fun
-0.0.0.0    goredb.com
+s-krovi.net - Inactive
+goreviral.fun - Inactive
+www.rotten.com - Inactive
+psychoduck2.net - Inactive
+1deathaddict.co - Inactive
+www.goretube.com - Inactive
+leakedreality.com - Inactive
+www.reallygore.com - Inactive
+www.leakedreality.com - Inactive
+www.mazterlocuras.net - Inactive
+www.death-thelashapiters.net - Inactive
+www.anoticiadoam.blogspot.com - Inactive
+
+www.ochevidets.ru - NotSecure
+www.charonboat.com - NotSecure
+www.auscaps2.blogspot.com - Not Secure
+www.webhorror.blogspot.com - Not Secure
+
+rottenland.com - goreflix.com
+www.itemfix.com - www.liveleak.com
+
+forogore.net
+www.forogore.net
+rottenland.com
+www.rottenland.com
+kaotic.com
+www.kaotic.com
+theync.com
+www.theync.com
+gorebook.com
+www.gorebook.com
+www.documentingreality.com
+www.agresori.com
+deadhouse.xyz
+deadhouse.org
+forum.deathaddict.co
+runthegauntlet.org
+horriblevideos.com
+www.horriblevideos.com
+krudplug.net
+www.krudplug.net
+deepgoretube.site
+bizarrecrew.com
+webhorror.blogspot.com
+www.portaldojota.com
+itemfix.com
+www.itemfix.com
+www.ndtv.com
+saidit.net
+www.saidit.net
+www.hermantheshocker.com
+megabizarro.net
+watchpeopledie.tv
+usacrime.com
+www.livegore.com
+seegore.com
+alivegore.com
+www.alivegore.com
+crazyshit.com
+www.crazyshit.com
+goregrish.com
+cutedeadguys.net
+auscaps2.blogspot.com
+www.sadistic.pl
+bestgore.fun
+www.atrocidades18.net
+www.arquivos-atrocidades18.win
+www.atrocidades18.fans
+goredb.com
+xgore.net
+herdeaths.net
+navratdoreality.cz
+vidmax.com
+www.zdterror.com
+www.bitchute.com
+goresee.com
+www.goresee.com
+elblogdelnarco.com
+theworldwatch.com
+www.gorecenter.com
