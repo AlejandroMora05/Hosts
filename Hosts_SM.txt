@@ -7,7 +7,7 @@ x.com
 es-es.facebook.com
 es-la.facebook.com
 www.twitch.tv
-www.kick.com
+kick.com
 www.reddit.com
 www.tiktok.com
 www.pixiv.net
