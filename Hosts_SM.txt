@@ -1,22 +1,21 @@
 # Social Media
 
-0.0.0.0    www.youtube.com
-0.0.0.0    www.facebook.com
-0.0.0.0    www.instagram.com
-0.0.0.0    x.com
-0.0.0.0    es-es.facebook.com
-0.0.0.0    es-la.facebook.com
-0.0.0.0    www.twitch.tv
-0.0.0.0    www.kick.com
-0.0.0.0    www.reddit.com
-0.0.0.0    www.tiktok.com
-0.0.0.0    www.pixiv.net
-0.0.0.0    tenor.com
-0.0.0.0    co.pinterest.com
-0.0.0.0    www.pinterest.com
-0.0.0.0    www.pinterest.es
-0.0.0.0    ifunny.co
-0.0.0.0    medium.com
-0.0.0.0    www.tumblr.com
-0.0.0.0    vimeo.com
-0.0.0.0    cuevana.biz
+www.youtube.com
+www.facebook.com
+www.instagram.com
+x.com
+es-es.facebook.com
+es-la.facebook.com
+www.twitch.tv
+www.kick.com
+www.reddit.com
+www.tiktok.com
+www.pixiv.net
+tenor.com
+co.pinterest.com
+www.pinterest.com
+www.pinterest.es
+ifunny.co
+medium.com
+www.tumblr.com
+vimeo.com
